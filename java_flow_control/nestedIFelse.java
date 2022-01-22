@@ -30,6 +30,7 @@ public class nestedIFelse {
         }
 
         System.out.println("Largest Number: " + largest);
+        System.out.println(n1);
     }
 
 }
